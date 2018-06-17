@@ -71,7 +71,7 @@ class Task extends React.Component {
 }
 const mapStateToProps = (state) => {
     return (
-        rootReducers: state.rootReducers;
+        rootReducers
     )
   }
 
